@@ -1,4 +1,4 @@
-class practicalnos1{
+class practical1A{
     public static void main(String[] args) {
         boolean isJavaEasy = true;
         boolean isWaterDry = false;

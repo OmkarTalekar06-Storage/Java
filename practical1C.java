@@ -1,4 +1,4 @@
-class practicalnos1C{
+class practical1C{
     public static void main(String[] args) {
         int a = 10;
         int b = 5;
